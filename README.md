@@ -11,12 +11,12 @@ Perfect for beginners and learners who want to build strong fundamentals in **Nu
 
 🧪 **File** | 📄 **Description** | 📷 **Output Screenshot**  
 ---|---|---  
-[numpy operators/arithmatic operators.py](./numpy%20operators/arithmatic%20operators.py) | ➕ Demonstrates element-wise arithmetic operations ( + , - , * , / , % , ** , // ) | ![Arithmatic Operators](./Arithmatic%20Operators.png)  
-[numpy operators/comparision operators.py](./numpy%20operators/comparision%20operators.py) | 🔎 Element-wise comparison ( > , < , >= , <= , == , != ) | ![Comparision Operators](./Comparision%20Operators.png)  
-[numpy operators/statistical operators.py](./numpy%20operators/statistical%20operators.py) | 📊 Statistical measures: sum, mean, median, std, variance, min, max | ![Statistical Operators](./Statistical%20Operators.png)  
-[numpy operators/bitwise operators.py](./numpy%20operators/bitwise%20operators.py) | 🔀 Element-wise bitwise operations ( & , \| , ^ , << , >> ) | ![Bitwise Operators](./Bitwise%20Operatos.png)  
-[numpy operators/linear algebra operators.py](./numpy%20operators/linear%20algebra%20operators.py) | 🧮 Matrix operations: multiplication, dot product, transpose, determinant, inverse, trace | ![Linear Algebra Operators](./Linear%20Algebra%20Operators.png)  
-[numpy operators/unique and set operations.py](./numpy%20operators/unique%20and%20set%20operations.py) | 🔗 Set operations: unique, intersection, union, difference, symmetric difference, membership | ![Unique and Set Operators](./Unique%20and%20Set%20Operators.png)  
+[arithmatic operators.py](./numpy%20operators/arithmatic%20operators.py) | ➕ Demonstrates element-wise arithmetic operations ( + , - , * , / , % , ** , // ) | ![Arithmatic Operators](./Arithmatic%20Operators.png)  
+[comparision operators.py](./numpy%20operators/comparision%20operators.py) | 🔎 Element-wise comparison ( > , < , >= , <= , == , != ) | ![Comparision Operators](./Comparision%20Operators.png)  
+[statistical operators.py](./numpy%20operators/statistical%20operators.py) | 📊 Statistical measures: sum, mean, median, std, variance, min, max | ![Statistical Operators](./Statistical%20Operators.png)  
+[bitwise operators.py](./numpy%20operators/bitwise%20operators.py) | 🔀 Element-wise bitwise operations ( & , \| , ^ , << , >> ) | ![Bitwise Operators](./Bitwise%20Operatos.png)  
+[linear algebra operators.py](./numpy%20operators/linear%20algebra%20operators.py) | 🧮 Matrix operations: multiplication, dot product, transpose, determinant, inverse, trace | ![Linear Algebra Operators](./Linear%20Algebra%20Operators.png)  
+[unique and set operations.py](./numpy%20operators/unique%20and%20set%20operations.py) | 🔗 Set operations: unique, intersection, union, difference, symmetric difference, membership | ![Unique and Set Operators](./Unique%20and%20Set%20Operators.png)  
 
 ---
 ---
