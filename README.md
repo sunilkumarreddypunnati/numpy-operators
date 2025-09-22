@@ -11,7 +11,7 @@ Perfect for beginners and learners who want to build strong fundamentals in **Nu
 
 🧪 **File** | 📄 **Description** | 📷 **Output Screenshot**  
 ---|---|---  
-[arithmatic operators.py](./arithmatic%20operators.py) | ➕ Demonstrates element-wise arithmetic operations ( + , - , * , / , % , ** , // ) | ![Arithmatic Operators](./Arithmatic%20Operators.png)  
+[arithmatic operators.py](./numpy%20operators/arithmatic%20operators.py)   | ➕ Demonstrates element-wise arithmetic operations ( + , - , * , / , % , ** , // ) | ![Arithmatic Operators](./Arithmatic%20Operators.png)  
 [bitwise operators.py](./bitwise%20operators.py) | 🔀 Element-wise bitwise operations ( & , \| , ^ , << , >> ) | ![Bitwise Operators](./Bitwise%20Operatos.png)  
 [comparision operators.py](./comparision%20operators.py) | 🔎 Element-wise comparison ( > , < , >= , <= , == , != ) | ![Comparision Operators](./Comparision%20Operators.png)  
 [linear algebra operators.py](./linear%20algebra%20operators.py) | 🧮 Matrix operations: multiplication, dot product, transpose, determinant, inverse, trace | ![Linear Algebra Operators](./Linear%20Algebra%20Operators.png)  
