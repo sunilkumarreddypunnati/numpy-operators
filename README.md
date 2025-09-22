@@ -16,8 +16,7 @@ Perfect for beginners and learners who want to build strong fundamentals in **Nu
 [comparision operators.py](./comparision%20operators.py) | 🔎 Element-wise comparison ( > , < , >= , <= , == , != ) | ![Comparision Operators](./Comparision%20Operators.png)  
 [linear algebra operators.py](./linear%20algebra%20operators.py) | 🧮 Matrix operations: multiplication, dot product, transpose, determinant, inverse, trace | ![Linear Algebra Operators](./Linear%20Algebra%20Operators.png)  
 [statistical operators.py](./statistical%20operators.py) | 📊 Statistical measures: sum, mean, median, std, variance, min, max | ![Statistical Operators](./Statistical%20Operators.png)  
-[unique and set operations.py](./unique%20and%20set%20operations.py) | 🔗 Set operations: unique, intersection, union, difference, symmetric difference, membership | *(No screenshot uploaded)*  
-
+[unique and set operations.py](./unique%20and%20set%20operations.py) | 🔗 Set operations: unique, intersection, union, difference, symmetric difference, membership | ![Unique and Set Operators](./Unique%20and%20Set%20Operators.png)  
 ---
 
 ## ✅ What I Practiced  
